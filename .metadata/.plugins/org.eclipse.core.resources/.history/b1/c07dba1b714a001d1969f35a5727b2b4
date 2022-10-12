@@ -1,0 +1,5 @@
+package com.oussama.produits.service;
+
+public interface ProduitService {
+
+}

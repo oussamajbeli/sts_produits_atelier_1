@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="ProduitsApplicationTests.testUpdateProduit" project="produits" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="com.oussama.produits.ProduitsApplicationTests" time="0.592" displayname="ProduitsApplicationTests" uniqueid="[engine:junit-jupiter]/[class:com.oussama.produits.ProduitsApplicationTests]">
+    <testcase name="testUpdateProduit" classname="com.oussama.produits.ProduitsApplicationTests" time="0.592" displayname="testUpdateProduit()" uniqueid="[engine:junit-jupiter]/[class:com.oussama.produits.ProduitsApplicationTests]/[method:testUpdateProduit()]"/>
+  </testsuite>
+</testrun>

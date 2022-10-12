@@ -1,0 +1,20 @@
+package com.oussama.produits.service;
+
+import java.util.List;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.oussama.produits.entities.Produit;
+import com.oussama.produits.repos.ProduitRepository;
+
+@Service
+public class ProduitServiceImpl implements ProduitService{
+
+	@Autowired ProduitRepository produitRepository;
+	@Override
+	public Produit saveProduit(Produit p) {
+		Bel Hadj- nadhemb@yahoo.com Page 6 Spring Boot 2022
+		return produitRepository.save(p);
+		}
+	
+}

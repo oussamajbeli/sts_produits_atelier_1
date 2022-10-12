@@ -1,0 +1,5 @@
+package com.oussama.produits.entities;
+
+public class Produit {
+
+}

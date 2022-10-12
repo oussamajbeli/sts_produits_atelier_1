@@ -1,0 +1,19 @@
+package com.oussama.produits;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+import java.util.Date;
+import org.springframework.beans.factory.annotation.Autowired;
+import com.oussama.produits.entities.Produit;
+import com.oussama.produits.repos.ProduitRepository;
+
+
+@SpringBootTest
+class ProduitsApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
